@@ -5,7 +5,7 @@ Java Backend developer
 ----------------------
 
 * 🌍  I'm based in Russia, Saint-Petersburg
-* 🧠  I'm learning Spring Framework
+
 
 ### Skills
 
