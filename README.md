@@ -4,7 +4,6 @@ Hi 👋 My name is Maxim
 Java Backend developer
 ----------------------
 
-* 🌍  I'm based in Russia, Saint-Petersburg
 
 
 ### Skills
